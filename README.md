@@ -1,1 +1,1 @@
-# springboot-h2-with-integrationtest
+# springboot-h2
