@@ -1,6 +1,8 @@
 # springboot-h2
 <p>
 This code skeleton is a snippet to demonstrate how we can use an embedded database such as H2 in runtime and integration test phases.
+
+
 </p>
 
 ## Running instructions
